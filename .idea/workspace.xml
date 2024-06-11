@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45856e0e-382a-4637-a77a-ed1fa004a396" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OverfittingHomeWork.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bikes_rent.csv" afterDir="false" />
+    <list default="true" id="45856e0e-382a-4637-a77a-ed1fa004a396" name="Changes" comment="Olek_Kruh">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OverfittingHomeWork.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/OverfittingHomeWork.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,11 +68,26 @@
       <workItem from="1717779454923" duration="19540000" />
       <workItem from="1717949858027" duration="306000" />
       <workItem from="1717950185270" duration="603000" />
-      <workItem from="1718031780064" duration="3887000" />
+      <workItem from="1718031780064" duration="4972000" />
+      <workItem from="1718122155464" duration="617000" />
+      <workItem from="1718125652579" duration="5081000" />
     </task>
+    <task id="LOCAL-00001" summary="Olek_Kruh">
+      <option name="closed" value="true" />
+      <created>1718045824770</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718045824770</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Olek_Kruh" />
+    <option name="LAST_COMMIT_MESSAGE" value="Olek_Kruh" />
   </component>
 </project>
